@@ -1,0 +1,126 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.1em;
+}
+
+#cajaregistro {
+    padding: 1em;
+    width: 400px;
+    margin: auto;
+    background: lightblue;
+    border: 2px solid #0016b0;
+}
+
+#cajacatalogo {
+    padding: 1em;
+    width: 1000px;
+    max-width: 1000px;
+    height: auto;
+    margin: auto;
+    background: lightcyan;
+    text-align: center;
+    border: 2px solid #0016b0;
+}
+
+#cajacarrito {
+    padding: 1em;
+    width: 1000px;
+    max-width: 1000px;
+    height: auto;
+    margin: auto;
+    background: beige;
+    text-align: center;
+    border: 2px solid #0016b0;
+}
+
+#cajaofertas {
+    padding: 1em;
+    width: 1000px;
+    max-width: 1000px;
+    height: auto;
+    margin: auto;
+    background: #e0f2b8;
+    text-align: center;
+    border: 2px solid #0016b0;
+}
+
+.sinstock{
+    color: red;
+    font-weight: bold;
+    font-size: 0.80em;
+}
+
+.oferta {
+    color: #900000;
+}
+
+.nombre{
+    color: darkcyan;
+}
+
+
+#productos{
+    display:flex;
+    justify-content: center;
+
+}
+
+img {
+    border: solid 2px #4000A0;
+    width: 150px;
+    max-width: 150px;
+    height: auto;
+}
+
+.boton {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+}
+
+#botonborrar{
+      text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #f28c8c;
+    border-radius: 6px;
+    border: 2px solid #a51717;
+}
+
+.botoncomprar {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #1d1208;
+    background-color: #9af09a;
+    border-radius: 6px;
+    border: 2px solid #00b02c;
+}
+
+.producto {
+    text-align: center;
+    display: inline-block;
+    font-size: 0.8em;
+    width: 30%;
+    border: solid 1px gainsboro;
+    margin: 1em;
+    padding: 1em;
+}
+
+.linea{
+    font-size: 0.9em;
+}
+
+
+#sumatotal{
+      font-size: 1em;
+          
+}

@@ -1,0 +1,5 @@
+BD:  mitienda
+usuario: jose
+clave: 123
+
+El servicio (se llama service.php) está en la carpeta modelos y el cliente es una vista que se llama vistaofertas.php y está en la carpeta de vistas
