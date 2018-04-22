@@ -28,7 +28,7 @@ class Login {
                         <input type="submit" class="boton" name="submit" value="Entrar">                            
                     </form>  
 					
-					<p class="version">Versión 1</p>
+					<p class="version">Versión 2</p>
            
            
 EOD;
